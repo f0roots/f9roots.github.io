@@ -40,6 +40,6 @@ button {
   background: var(--pink);
   color: var(--blue);
   transition: 0.25s;
-  cursor: copy;
+  cursor: grab;
 
 }
