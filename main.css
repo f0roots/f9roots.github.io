@@ -1,4 +1,3 @@
-
 :root {
   --pink: #e99bac;
   --beige: #e9e09b;
@@ -8,6 +7,7 @@
 
 html,
 body {
+  margin: 1%;
   background: #2E2E34;
   background-repeat: repeat;
   background-size: auto;
@@ -40,6 +40,6 @@ button {
   background: var(--pink);
   color: var(--blue);
   transition: 0.25s;
-  cursor: grab;
+
 
 }
