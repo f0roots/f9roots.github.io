@@ -53,7 +53,7 @@ button {
   font: inherit;
   line-height: 1;
   margin: 0.5em;
-  padding: 1em 2em;
+  padding: 8px 16px;
   background: var(--pink);
   color: black;
   transition: 0.25s;
@@ -62,11 +62,10 @@ button {
 
 .border1 {
   background: none;
-  border: none;
   font: inherit;
-  line-height: 1;
-  background: var(--pink);
+  line-height: normal;
   color: black;
   transition: 0.25s;
-  
+  outline: 0;
+  border: none;
 }
